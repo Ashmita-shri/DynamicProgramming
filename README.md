@@ -1,6 +1,6 @@
 # DynamicProgramming
 Dynamic programming applications
-The repository contains applications of dynamic programming :
+The repository contains applications of dynamic programming : 
   -Fibonacci series
   -Longest common subsequence
   -Matrix chain multiplication
